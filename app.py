@@ -195,16 +195,16 @@ def portfolio_page():
 
     projects = {
         "Web Development": [
-            {"title": "E-commerce", "img": "assets/images/p10.png", "category": "Web Development"},
-            {"title": "E-commerce", "img": "assets/images/p11.png", "category": "Web Development"},
-            {"title": "Web Design", "img": "assets/images/p12.png", "category": "Web Design"},
-            {"title": "Hotel Management", "img": "assets/images/p8.png", "category": "Applications"}
+            {"title": "E-commerce", "img": "p10.png", "category": "Web Development"},
+            {"title": "E-commerce", "img": "p11.png", "category": "Web Development"},
+            {"title": "Web Design", "img": "p12.png", "category": "Web Design"},
+            {"title": "Hotel Management", "img": "p8.png", "category": "Applications"}
         ],
         "Artificial Intelligence": [
-            {"title": "Breast Tumor", "img": "assets/images/p1.png", "category": "Artificial Intelligence"},
-            {"title": "Data Science App", "img": "assets/images/p2.png", "category": "Artificial Intelligence"},
-            {"title": "Chatbot", "img": "assets/images/p5.png", "category": "Artificial Intelligence"},
-            {"title": "Converter", "img": "assets/images/p6.png", "category": "Artificial Intelligence"}
+            {"title": "Breast Tumor", "img": "p1.png", "category": "Artificial Intelligence"},
+            {"title": "Data Science App", "img": "p2.png", "category": "Artificial Intelligence"},
+            {"title": "Chatbot", "img": "p5.png", "category": "Artificial Intelligence"},
+            {"title": "Converter", "img": "p6.png", "category": "Artificial Intelligence"}
         ]
     }
 
